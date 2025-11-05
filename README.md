@@ -6,4 +6,4 @@ The ChatGPT convos are here:
 
 All examples are in the SRC
 
-[Slides pdf](Kotlin vs Modern Java.pdf)
+[Slides pdf](Kotlin_vs_Modern_Java.pdf)
