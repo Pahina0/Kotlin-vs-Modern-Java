@@ -5,3 +5,5 @@ The ChatGPT convos are here:
 [Merge Interval Leetcode](https://chatgpt.com/share/690b8d1f-1340-8005-b19c-b72a8168949c)    
 
 All examples are in the SRC
+
+[Slides pdf](Kotlin vs Modern Java.pdf)
